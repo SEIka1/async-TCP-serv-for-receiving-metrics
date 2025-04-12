@@ -1,1 +1,11 @@
-
+blank_issues_enabled: false  # Require template usage
+contact_links:
+  - name: 💬 Discord
+    url: https://discord.gg/seikas69
+    about: you can send me a message <3
+  - name: 📚 Documentation
+    url: ---
+    about: I will leave without documentation for now, sorry
+  - name: telegram group
+    url: https://t.me/+ipZ-pHx_eu5jMmE6
+    about: join the group in telegram!
